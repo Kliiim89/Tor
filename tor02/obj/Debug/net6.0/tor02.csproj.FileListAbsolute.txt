@@ -1,0 +1,15 @@
+C:\Users\oneda\OneDrive\Рабочий стол\Tor\tor02\obj\Debug\net6.0\tor02.csproj.AssemblyReference.cache
+C:\Users\oneda\OneDrive\Рабочий стол\Tor\tor02\obj\Debug\net6.0\tor02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oneda\OneDrive\Рабочий стол\Tor\tor02\obj\Debug\net6.0\tor02.AssemblyInfoInputs.cache
+C:\Users\oneda\OneDrive\Рабочий стол\Tor\tor02\obj\Debug\net6.0\tor02.AssemblyInfo.cs
+C:\Users\oneda\OneDrive\Рабочий стол\Tor\tor02\obj\Debug\net6.0\tor02.csproj.CoreCompileInputs.cache
+C:\Users\oneda\OneDrive\Рабочий стол\Tor\tor02\bin\Debug\net6.0\tor02.exe
+C:\Users\oneda\OneDrive\Рабочий стол\Tor\tor02\bin\Debug\net6.0\tor02.deps.json
+C:\Users\oneda\OneDrive\Рабочий стол\Tor\tor02\bin\Debug\net6.0\tor02.runtimeconfig.json
+C:\Users\oneda\OneDrive\Рабочий стол\Tor\tor02\bin\Debug\net6.0\tor02.dll
+C:\Users\oneda\OneDrive\Рабочий стол\Tor\tor02\bin\Debug\net6.0\tor02.pdb
+C:\Users\oneda\OneDrive\Рабочий стол\Tor\tor02\obj\Debug\net6.0\tor02.dll
+C:\Users\oneda\OneDrive\Рабочий стол\Tor\tor02\obj\Debug\net6.0\refint\tor02.dll
+C:\Users\oneda\OneDrive\Рабочий стол\Tor\tor02\obj\Debug\net6.0\tor02.pdb
+C:\Users\oneda\OneDrive\Рабочий стол\Tor\tor02\obj\Debug\net6.0\tor02.genruntimeconfig.cache
+C:\Users\oneda\OneDrive\Рабочий стол\Tor\tor02\obj\Debug\net6.0\ref\tor02.dll
